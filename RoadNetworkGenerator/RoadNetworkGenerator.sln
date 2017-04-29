@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{538FD69E-77BF-B86F-4BAD-75A512DB00DD}") = "RoadNetworkGenerator", "Assembly-CSharp-firstpass.csproj", "{2A91F0DE-5C5B-CD3E-A56F-27FA0C00D084}"
+EndProject
+Project("{538FD69E-77BF-B86F-4BAD-75A512DB00DD}") = "RoadNetworkGenerator", "Assembly-CSharp.csproj", "{D89918EC-F9F6-4229-6305-8226B8269401}"
+EndProject
+Project("{538FD69E-77BF-B86F-4BAD-75A512DB00DD}") = "RoadNetworkGenerator", "Assembly-CSharp-Editor.csproj", "{FA08D121-5BC4-7E0E-CEC3-20D131AEF0A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A91F0DE-5C5B-CD3E-A56F-27FA0C00D084}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A91F0DE-5C5B-CD3E-A56F-27FA0C00D084}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A91F0DE-5C5B-CD3E-A56F-27FA0C00D084}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A91F0DE-5C5B-CD3E-A56F-27FA0C00D084}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D89918EC-F9F6-4229-6305-8226B8269401}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D89918EC-F9F6-4229-6305-8226B8269401}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D89918EC-F9F6-4229-6305-8226B8269401}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D89918EC-F9F6-4229-6305-8226B8269401}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA08D121-5BC4-7E0E-CEC3-20D131AEF0A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA08D121-5BC4-7E0E-CEC3-20D131AEF0A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA08D121-5BC4-7E0E-CEC3-20D131AEF0A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA08D121-5BC4-7E0E-CEC3-20D131AEF0A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
